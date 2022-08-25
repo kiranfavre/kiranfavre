@@ -10,7 +10,7 @@ I am currently a Master of Environmental Data Science student at Bren School for
 
 
 ### My interests
-I am interested in marine data visualization and climate change. I want to contribute to knowledge surrounding climate mitigation while maintaining a focus on environmental justice. 
+I am interested in marine data visualization and climate change. I want to contribute to knowledge surrounding climate mitigation while maintaining a focus on environmental justice. Outside of class, I enjoy hiking, swimming at the beach, and diving. 
 
 
 
