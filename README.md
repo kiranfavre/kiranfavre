@@ -1,5 +1,5 @@
+![kiranfavre](https://user-images.githubusercontent.com/110261671/186761863-b1d67aca-4ce7-4706-818c-68be0a66038c.png)
 
-![kiranfavre](https://user-images.githubusercontent.com/110261671/186743321-c356364f-81ec-40f0-af2d-dabaaf2a4a5d.png)
 
 #### Pronouns: she/her
 #### Personal website: https://kiranfavre.github.io/ 
