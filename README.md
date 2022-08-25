@@ -1,4 +1,5 @@
-# KIRAN FAVRE
+
+![kiranfavre](https://user-images.githubusercontent.com/110261671/186743321-c356364f-81ec-40f0-af2d-dabaaf2a4a5d.png)
 
 #### Pronouns: she/her
 #### Personal website: https://kiranfavre.github.io/ 
@@ -9,7 +10,7 @@ I am currently a Master of Environmental Data Science student at Bren School for
 
 
 ### My interests
-I am interested in marine data visualization and climate change. 
+I am interested in marine data visualization and climate change. I want to contribute to knowledge surrounding climate mitigation while maintaining a focus on environmental justice. 
 
 
 
