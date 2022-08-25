@@ -1,4 +1,4 @@
-![kiranfavre](https://user-images.githubusercontent.com/110261671/186761863-b1d67aca-4ce7-4706-818c-68be0a66038c.png)
+![kiranfavre](https://user-images.githubusercontent.com/110261671/186763138-3a27426e-1017-4a9c-a728-662e9f77e8fd.png)
 
 
 #### Pronouns: she/her
