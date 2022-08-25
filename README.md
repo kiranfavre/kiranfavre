@@ -1,4 +1,4 @@
-![Pink Modern Life Success Motivation Effort Quote Banner (7)](https://user-images.githubusercontent.com/110261671/186763611-a0bc8dd3-63ae-476a-9ffe-47a9b54802f4.png)
+![Pink Modern Life Success Motivation Effort Quote Banner (8)](https://user-images.githubusercontent.com/110261671/186764026-453e9af1-b535-439e-9efb-8dd0d7404a61.png)
 
 #### Pronouns: she/her
 #### Personal website: https://kiranfavre.github.io/ 
