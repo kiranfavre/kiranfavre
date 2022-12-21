@@ -2,14 +2,14 @@
 
 #### Pronouns: she/her
 #### Personal website: https://kiranfavre.github.io/ 
-#### Twitter: @kiran_favre
+#### Twitter: @kiranfavre
 
 ## What am I up to?
 I am currently a Master of Environmental Data Science student at Bren School for Environmental Science & Management at University of California, Santa Barbara. I recently earned my Bachelor of Environmental Sciences from University of California, Santa Cruz. 
 
 
 ### My interests
-I am interested in marine data visualization and climate change. I want to contribute to knowledge surrounding climate mitigation while maintaining a focus on environmental justice. Outside of class, I enjoy hiking, swimming at the beach, and diving. 
+I am interested in marine data visualization and climate change. I want to contribute to knowledge surrounding climate mitigation while maintaining a focus on environmental justice. Outside of class, I enjoy hiking, meditation, and diving. 
 
 
 
