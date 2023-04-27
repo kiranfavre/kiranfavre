@@ -5,11 +5,11 @@
 #### Twitter: @kiranfavre
 
 ## What am I up to?
-I am currently a Master of Environmental Data Science student at Bren School for Environmental Science & Management at University of California, Santa Barbara. I recently earned my Bachelor of Environmental Sciences from University of California, Santa Cruz. 
+I am currently a Master of Environmental Data Science student at Bren School for Environmental Science & Management at University of California, Santa Barbara. I am working on a capstone project with a group to create an application that automates our client's data entry workflow and a data visualization application. I recently earned my Bachelor of Environmental Sciences from University of California, Santa Cruz. 
 
 
 ### My interests
-I am interested in marine data visualization and climate change. I want to contribute to knowledge surrounding climate mitigation while maintaining a focus on environmental justice. Outside of class, I enjoy hiking, meditation, and diving. 
+I am interested in data analysis and environmental modeling. I want to contribute to knowledge surrounding climate mitigation while maintaining a focus on environmental justice. Outside of class, I enjoy hiking, meditation, and diving. 
 
 
 
